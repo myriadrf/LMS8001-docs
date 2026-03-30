@@ -21,17 +21,19 @@ Summary of features:
 Contents
 --------
 
- * [LMS8001A-Datasheet_5.0r3.pdf][1] (10th December 2025) - LMS8001A Data Sheet.
- * [LMS8001B-Datasheet_5.0r3.pdf][2] (10th December 2025) - LMS8001B Data Sheet.
- * [LMS8001_Memory_Map.xlsx][3] (29th September 2017) - LMS8001 Memory Map.
- * [LMS8001_Reference_Manual.pdf][4] (29th September 2017) - LMS8001 Reference Manual.
- * [archived/LMS8001A-Datasheet_4.0r5.pdf][5] (30th September 2019) - LMS8001A Data Sheet (previous chip version, as fitted to earlier limited run LMS8001 Companion boards).
+ * [LMS8001A_Companion_Quick_Starter_Manual_v2.pdf][1] (30th March 2026) - Quick Starter Manual
+ * [LMS8001A-Datasheet_5.0r3.pdf][2] (10th December 2025) - LMS8001A Data Sheet.
+ * [LMS8001B-Datasheet_5.0r3.pdf][3] (10th December 2025) - LMS8001B Data Sheet.
+ * [LMS8001_Memory_Map.xlsx][4] (29th September 2017) - LMS8001 Memory Map.
+ * [LMS8001_Reference_Manual.pdf][5] (29th September 2017) - LMS8001 Reference Manual.
+ * [archived/LMS8001A-Datasheet_4.0r5.pdf][6] (30th September 2019) - LMS8001A Data Sheet (previous chip version, as fitted to earlier limited run LMS8001 Companion boards).
 
-[1]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001A-Datasheet_5.0r3.pdf
-[2]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001B-Datasheet_5.0r3.pdf
-[2]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001_Memory_Map.xlsx
-[3]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001_Reference_Manual.pdf
-[4]: https://github.com/myriadrf/LMS8001-docs/raw/master/archived/LMS8001A-Datasheet_4.0r5.pdf
+[1]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001A_Companion_Quick_Starter_Manual_v2.pdf
+[2]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001A-Datasheet_5.0r3.pdf
+[3]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001B-Datasheet_5.0r3.pdf
+[4]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001_Memory_Map.xlsx
+[5]: https://github.com/myriadrf/LMS8001-docs/raw/master/LMS8001_Reference_Manual.pdf
+[6]: https://github.com/myriadrf/LMS8001-docs/raw/master/archived/LMS8001A-Datasheet_4.0r5.pdf
 
 Support
 -------
