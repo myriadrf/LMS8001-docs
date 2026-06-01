@@ -21,7 +21,7 @@ Summary of features:
 Contents
 --------
 
- * [LMS8001_Matching_Network_Measurements_and_Optimization][1] (26th June 2026) - Application note with INI files
+ * [LMS8001_Matching_Network_Measurements_and_Optimization][1] (1st June 2026) - Application note with INI files
  * [LMS8001A_Companion_Quick_Starter_Manual_v2.pdf][2] (30th March 2026) - Quick Starter Manual
  * [LMS8001A-Datasheet_5.0r3.pdf][3] (10th December 2025) - LMS8001A Data Sheet.
  * [LMS8001B-Datasheet_5.0r3.pdf][4] (10th December 2025) - LMS8001B Data Sheet.
